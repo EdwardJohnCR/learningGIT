@@ -19,7 +19,15 @@ body
     padding: 0.5em;
 }
 
+<<<<<<< HEAD
 
+=======
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+>>>>>>> header
 
 #cabecera #tagline
 {
