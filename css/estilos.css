@@ -20,14 +20,20 @@ body
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> footer
 #cabecera #logo
 {
     width: 20px;
     vertical-align: middle;
 }
+<<<<<<< HEAD
 >>>>>>> header
+=======
+>>>>>>> footer
 
 #cabecera #tagline
 {
@@ -50,4 +56,10 @@ body
 {
     background: white;
     padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
 }
